@@ -31,7 +31,7 @@ async def on_startup(bot):
 
 
 async def on_shutdown(bot):
-    print("бот сломан")
+    print("бот выключен")
 
 
 async def main():
